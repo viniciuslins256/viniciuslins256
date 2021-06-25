@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://www.alura.com.br/assets/api/cursos/512/react-js.png" width="150"/>
+<img align="right" src="https://raw.githubusercontent.com/robsonkades/vscode-express-snippets/master/images/node.png" width="150"/>
 
 I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technologies and web development. I'm looking for fullstack, depositing my studies in backend development now. I like new challenges and always evolve 🚀💻.
 
