@@ -1,16 +1,78 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**viniciuslins256/viniciuslins256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://www.alura.com.br/assets/api/cursos/512/react-js.png" width="150"/>
 
-Here are some ideas to get you started:
+I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technologies and web development. I'm looking for fullstack, depositing my studies in backend development now. I like new challenges and always evolve 🚀💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 You can join me on
+
+![GitHub followers](https://img.shields.io/github/followers/viniciuslins256?label=Seguir&style=social)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-amaral-759b76205/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/vin%C3%ADcius-amaral-759b76205/) 
+[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/viniciuslins___/" height="22" title="Instagram" />](https://www.instagram.com/viniciuslins___/)
+
+#### :zap: My stack
+
+<p>
+  <code><img
+    src=".icons/javascript.svg"
+    alt="JavaScript"
+    title="JavaScript"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/typescript.svg"
+    alt="TypeScript"
+    title="TypeScript"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/react.svg"
+    alt="React"
+    title="React"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/next-dot-js.svg"
+    alt="Next.js"
+    title="Next.js"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/html5.svg"
+    alt="HTML"
+    title="HTML"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/css3.svg"
+    alt="CSS"
+    title="CSS"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/node-dot-js.svg"
+    alt="Node.js"
+    title="Node.js"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/python.svg"
+    alt="Python"
+    title="Python"
+    height="20px"
+  /></code>
+  <code><img
+    src=".icons/git.svg"
+    alt="Git"
+    title="Git"
+    height="20px"
+  /></code>
+</p>
+
+<br/>
+
+### 📑 My GitHub's Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=davigsousa&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigsousa&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
