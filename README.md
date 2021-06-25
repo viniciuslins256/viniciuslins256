@@ -14,6 +14,12 @@ I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technolo
 
 <p>
   <code><img
+    src="icons/node-dot-js.svg"
+    alt="Node.js"
+    title="Node.js"
+    height="20px"
+  /></code>
+  <code><img
     src="icons/javascript.svg"
     alt="JavaScript"
     title="JavaScript"
@@ -23,6 +29,12 @@ I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technolo
     src="icons/typescript.svg"
     alt="TypeScript"
     title="TypeScript"
+    height="20px"
+  /></code>
+  <code><img
+    src="icons/mongodb.svg"
+    alt="MongoDB.js"
+    title="MongoDB.js"
     height="20px"
   /></code>
   <code><img
@@ -47,12 +59,6 @@ I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technolo
     src="icons/css3.svg"
     alt="CSS"
     title="CSS"
-    height="20px"
-  /></code>
-  <code><img
-    src="icons/node-dot-js.svg"
-    alt="Node.js"
-    title="Node.js"
     height="20px"
   /></code>
   <code><img
