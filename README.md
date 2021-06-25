@@ -79,6 +79,6 @@ I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technolo
 
 ### 📑 My GitHub's Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=davigsousa&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigsousa&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciuslins256&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslins256&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
