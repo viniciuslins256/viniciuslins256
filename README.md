@@ -14,55 +14,55 @@ I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technolo
 
 <p>
   <code><img
-    src=".icons/javascript.svg"
+    src="icons/javascript.svg"
     alt="JavaScript"
     title="JavaScript"
     height="20px"
   /></code>
   <code><img
-    src=".icons/typescript.svg"
+    src="icons/typescript.svg"
     alt="TypeScript"
     title="TypeScript"
     height="20px"
   /></code>
   <code><img
-    src=".icons/react.svg"
+    src="icons/react.svg"
     alt="React"
     title="React"
     height="20px"
   /></code>
   <code><img
-    src=".icons/next-dot-js.svg"
+    src="icons/next-dot-js.svg"
     alt="Next.js"
     title="Next.js"
     height="20px"
   /></code>
   <code><img
-    src=".icons/html5.svg"
+    src="icons/html5.svg"
     alt="HTML"
     title="HTML"
     height="20px"
   /></code>
   <code><img
-    src=".icons/css3.svg"
+    src="icons/css3.svg"
     alt="CSS"
     title="CSS"
     height="20px"
   /></code>
   <code><img
-    src=".icons/node-dot-js.svg"
+    src="icons/node-dot-js.svg"
     alt="Node.js"
     title="Node.js"
     height="20px"
   /></code>
   <code><img
-    src=".icons/python.svg"
+    src="icons/python.svg"
     alt="Python"
     title="Python"
     height="20px"
   /></code>
   <code><img
-    src=".icons/git.svg"
+    src="icons/git.svg"
     alt="Git"
     title="Git"
     height="20px"
