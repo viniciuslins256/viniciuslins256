@@ -27,26 +27,26 @@ I'm Vinícius Lins, Studying Computer Science at UFCG, passionate about technolo
   /></code>
   <code><img
     src="icons/sequelizejs.svg"
-    alt="MongoDB.js"
-    title="MongoDB.js"
+    alt="Sequelize"
+    title="Sequelize"
     height="20px"
   /></code>
   <code><img
     src="icons/mongodb.svg"
-    alt="MongoDB.js"
-    title="MongoDB.js"
+    alt="MongoDB"
+    title="MongoDB"
     height="20px"
   /></code>
   <code><img
     src="icons/postgresql.svg"
-    alt="MongoDB.js"
-    title="MongoDB.js"
+    alt="PostgreSQL"
+    title="PostgreSQL"
     height="20px"
   /></code>
   <code><img
     src="icons/sql.svg"
-    alt="MongoDB.js"
-    title="MongoDB.js"
+    alt="SQL"
+    title="SQL"
     height="20px"
   /></code>
   <code><img
